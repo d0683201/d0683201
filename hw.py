@@ -17,6 +17,7 @@ plt.legend()
 plt.xlabel('發病年週')
 plt.ylabel('人數')
 plt.xticks(rotation = 90)
+plt.tight_layout()
 plt.show()
 
 #確定病例
